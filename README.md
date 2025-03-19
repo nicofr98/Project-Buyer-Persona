@@ -136,7 +136,6 @@ Each component is thoroughly documented to showcase my learning process and anal
 
 ## Contact
 www.linkedin.com/in/nicolás-frías-reid-88a87016a
+
 nfriasreid48@gmail.com
 ---
-
-*This project is part of a comprehensive data science and analytics portfolio developed during my career transition.*
