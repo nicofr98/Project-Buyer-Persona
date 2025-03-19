@@ -1,8 +1,10 @@
+#Si te gusta este codigo, puedes utilizarlo sin problema alguno :) 
+
 import csv
 import os
 import chardet
 
-file_name = r"C:\Users\L03140374\buyer_persona_analysis\data\Viña Real - Analisis de Ventas UTF-8.csv"
+file_name = #Inserta la dirección de tu archivo CSV.
 
 #Método Parser, obetivo es poder reutilizar el codigo con otros archivos tambien. 
 def parser (path):
