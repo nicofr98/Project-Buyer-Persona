@@ -1,11 +1,12 @@
 ### Buyer Persona Analysis Project
 
-**About Me**
-Hi! I´m Nicolás Frías Reid, but please refer to me as Nico. 
-
+## About Me
+Hi, I´m Nico Frías a professional transitioning to a career in business and data analytics. 
+Currently working as a Project Manager for Tecnologico de Monterrey, and leading an project in digital transformation for internal documentation audits using Power Apps. 
+This project has the purpose to show my learning journey and demonstration of my technical and analytical capabilities, but also demonstrating my capacity of adapting and learning new concepts. 
 
 ## Project Overview
-This repository documents my journey into data analytics through a comprehensive real estate buyer persona analysis project. By analyzing sales data, I aim to identify patterns among successful buyers and create detailed buyer personas that can match against potential customers.
+This repository documents my journey into data analytics through with a real estate buyer persona analysis project. By analyzing sales data, the objective is to identify patterns among successful buyers and create detailed buyer personas that can match potential customers.
 
 ## Project Objectives
 - Analyze real estate sales data to identify patterns and trends
@@ -133,12 +134,9 @@ Each component is thoroughly documented to showcase my learning process and anal
 - Create API endpoints for integration with CRM systems
 - Build automated data pipelines for continuous updates
 
-## About Me
-I'm a professional transitioning to a career in business and data analytics. This project serves as both a learning journey and a demonstration of my growing technical and analytical capabilities.
-
 ## Contact
-[Your LinkedIn/Contact Information]
-
+www.linkedin.com/in/nicolás-frías-reid-88a87016a
+nfriasreid48@gmail.com
 ---
 
 *This project is part of a comprehensive data science and analytics portfolio developed during my career transition.*
